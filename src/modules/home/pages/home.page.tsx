@@ -8,7 +8,7 @@ function HomePage() {
         <div>
             Home page
             <p>{data?.name}</p>
-            <Link to="/test">Go to Test page</Link>
+            <Link to="/home/test">Go to Test page</Link>
         </div>
     );
 }

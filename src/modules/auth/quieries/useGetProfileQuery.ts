@@ -14,5 +14,6 @@ export const useGetProfileQuery = (): UseQueryResult<GetProfileResponse, AxiosEr
         refetchOnMount: false,
         refetchOnWindowFocus: false,
         staleTime: 1000 * 60 * 5,
+        retry: 2
     })
 }
