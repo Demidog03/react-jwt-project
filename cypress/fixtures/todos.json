@@ -1,0 +1,6 @@
+[
+  { "id": 1, "title": "Купить молоко", "completed": false },
+  { "id": 2, "title": "Изучить Cypress", "completed": true },
+  { "id": 3, "title": "Написать тесты", "completed": false }
+]
+
